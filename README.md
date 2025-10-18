@@ -1,7 +1,7 @@
 # Leyah85-
 My personal repository 
 
-I study technical writing and my program does not educate in Github. It seems that GitHub is a very sought after skill so I will educate myself! 
+I studied technical writing and education in Github was not included. It seems that GitHub is a valuable skill so I am educating myself.
 
 
 # Hobbies-
